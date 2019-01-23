@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Our Team  
-Goals: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working hard. 
+We want to learn how to code in R and to work together well as a team by communicating, addressing problems, and working hard. 
 ![   ](Documents/Here/team.png)
 
 
