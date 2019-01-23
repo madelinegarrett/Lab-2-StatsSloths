@@ -1,0 +1,42 @@
+---
+title: "Statistical Sloths"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Our Team  
+Goals: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working hard. 
+![   ](Documents/Here/team.png)
+
+
+
+
+
+
+
+## Meet the Members 
+### Madeline Garrett 
+![   ](Documents/Here/hello.png)
+
+
+```
+```
+
+Question: How do class sizes impact a students performance in  school?
+
+6 Months and 5 Years: 6 months after graduation I would like to be in graduate school getting my Phd in either Statistics or Political Science. Then in five years I would like to have graduated graduate school and be doing research for our government on education in the United States. 
+
+Greatest Career Accomplishment: I want to help make actual influential policy changes in the U.S.that could help future generations. 
+
+Learn in this course: How to analyze data and code out visuals that can be meaningful to people who are curious about a topic. 
+
+Creative: I am on the CU Triathlon Team!
+
+![   ](Documents/Here/triteam.png)
+
+
+
