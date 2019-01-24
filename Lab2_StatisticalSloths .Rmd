@@ -41,7 +41,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
   + Kevin's Feedback: I like how specific you are in describing what you want to do with your degree and where you want to be (working for the government on education issues). I think you could provide a little more background on your creative point. For example, do you have experience doing triathlons or is this something new you wanted to try?
   + Zandy's Feedback: 
-  + Katie's Feedback: 
+  + Katie's Feedback: I like how specific your information is and that it is clear how your post graduation goals and career accomplishment are related. I would've loved to see more information on what you are hoping to learn in this class. Are there certain topics that you would like to be able to analyze data for?
 
 ### Kevin Luth 
 ![](kevin.jpeg)
@@ -59,7 +59,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
   + Madeline's Feedback: I liked your stuff about specifcally wanting to work in sports, I would have liked more information about which sports teams you like.  
   + Zandy's Feedback: 
-  + Katie's Feedback: 
+  + Katie's Feedback: I like how you seperated your 6 months post graduation goal and 5 year goal and seeing how your first goal should stream into your 5 year goal. It would have been cool if you added what effects you would have on a sports team for your career accomplishment. 
 
 
 ### Zandy Boone
@@ -77,13 +77,13 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
   + Madeline's Feedback: I liked your fun fact about bowling I think thats really cool! I think that you could be more specifc about which field you want to work in or perhaps a field that you just enjoy. 
   + Kevin's Feedback: I like your question about height and how it relates to success in baseball. I am curious to know the answer as well, having played baseball for a long time myself. I think you could be more specific with what you would like to be doing after graduation, such as listing a specific field of work or a subject you are interested in working in if you have one.
-  + Katie's Feedback: 
+  + Katie's Feedback: I really liked that in your career accomplishment you explained how you want to use your knowledge to help others. However, I feel you could have been more specific about this by including how your work with stats, data science and econ would contribute to solving real world problems. 
 
 
 ### Katie Stewart
 ![    ](katie.jpg)
 
-* Question:
+* Question: Is it more likely for snowboarders to switch to skiing or for those who ski to switch to snowboarding?
 
 * 6 Months and 5 Years: 6 months after graduation I want to be traveling while working on app development. 5 years after graduation I want to be working as a data scientist as well as have a fully working a developed app available to the world. 
 
