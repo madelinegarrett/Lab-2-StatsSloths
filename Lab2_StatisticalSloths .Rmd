@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Our Team  
-Goals: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working efficiently. 
+### Goal: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working hard. 
 ![ ](team.png)
 
 
@@ -57,7 +57,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
 * Creative: I have always played some form of organized sport since I was three years old, including basketball, football, baseball, and track.
 
-  + Madeline's Feedback: I liked your stuff about specifcally wanting to work in sports, I would have liked more information about which sports teams you like.  
+  + Madeline's Feedback: Your added info about enjoying sports made me wonder which sports teams you like.  
   + Zandy's Feedback: I like your after graduation and career goals to help build rosters for teams using statistics. I would've liked if you explained what sport you specifically might want to work in and specifically what team or teams you might want to work for.
   + Katie's Feedback: I like how you seperated your 6 months post graduation goal and 5 year goal and seeing how your first goal should stream into your 5 year goal. It would have been cool if you added what effects you would have on a sports team for your career accomplishment. 
 
