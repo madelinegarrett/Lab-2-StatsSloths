@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Our Team  
-Goals: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working hard. 
+Goals: To learn how to code in R and to work together well as a team by communicating, addressing problems, and working efficiently. 
 ![ ](team.png)
 
 
@@ -39,30 +39,30 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
 ![   ](triteam.png)
 
+  + Kevin's Feedback: 
+  + Zandy's Feedback: 
+  + Katie's Feedback: 
+
 ### Kevin Luth 
-![](madeline.png)
+![]
 
-* Question: 
+* Question: In football, when is it most beneficial for a team to try for a touchdown on fourth down rather than attempt a field goal?
 
-* 6 Months:
-* 5 Years: 
+* 6 Months: Six months after graduating I would like to be working in the sports industry in some capacity.
+* 5 Years: Five years after graduating I would like to be working for a professional sports team using data science to help with roster building.
 
-* Career Accomplishment: 
+* Career Accomplishment: I hope my greatest career accomplishment will be working with and being a contributing piece on a championship winning sports team.
 
-* In this course I hope to learn
+* In this course I hope to learn at least basic skills and tools in R that will help with data science tasks as I have no prior experience with this.
 
-* Creative: 
+* Creative: I have always played some form of organized sport since I was three years old, including basketball, football, baseball, and track.
 
-
-
+  + Madeline's Feedback: 
+  + Zandy's Feedback: 
+  + Katie's Feedback: 
 
 
 ### Zandy Boone
-
-
-
-
-
 
 
 * Question:
@@ -74,6 +74,10 @@ Goals: To learn how to code in R and to work together well as a team by communic
 *Learn in this Course:
 
 Creative:
+
+  + Madeline's Feedback: 
+  + Kevin's Feedback: 
+  + Katie's Feedback: 
 
 
 ### Katie Stewart
@@ -87,3 +91,7 @@ Creative:
 * Learn in this Course: I want to learn more tools and aspects of R and how to apply those tools to correctly analyze data.
 
 * Creative: I have been skiing since I was 2 but snowboarding has been my favorite thing to do for the past 10 years.
+
+  + Madeline's Feedback: 
+  + Zandy's Feedback: 
+  + Kevin's Feedback: 
