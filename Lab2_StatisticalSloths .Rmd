@@ -75,7 +75,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Creative: I have been bowling since I was about 4 years old and bowl in bowling leagues and tournaments competitively.
 
-  + Madeline's Feedback: I liked your fun fact about bowling I think thats really cool! I think that you could be more specifc about which field you want to work in or perhaps a field that you just enjoy. 
+  + Madeline's Feedback: Your fun fact about bowling was great. You talked about wanting to work in data science and I wondered which field. 
   + Kevin's Feedback: I like your question about height and how it relates to success in baseball. I am curious to know the answer as well, having played baseball for a long time myself. I think you could be more specific with what you would like to be doing after graduation, such as listing a specific field of work or a subject you are interested in working in if you have one.
   + Katie's Feedback: I really liked that in your career accomplishment you explained how you want to use your knowledge to help others. However, I feel you could have been more specific about this by including how your work with stats, data science and econ would contribute to solving real world problems. 
 
