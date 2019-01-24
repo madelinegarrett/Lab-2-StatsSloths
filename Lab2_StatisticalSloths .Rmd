@@ -44,7 +44,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
   + Katie's Feedback: 
 
 ### Kevin Luth 
-![]
+![](kevin.jpeg)
 
 * Question: In football, when is it most beneficial for a team to try for a touchdown on fourth down rather than attempt a field goal?
 
@@ -63,7 +63,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
 
 ### Zandy Boone
-![]
+![](zandy.jpg)
 
 * Question: Do taller players in baseball have an advantage over less tall players?
 
@@ -81,6 +81,7 @@ Goals: To learn how to code in R and to work together well as a team by communic
 
 
 ### Katie Stewart
+![    ](katie.jpg)
 
 * Question:
 
