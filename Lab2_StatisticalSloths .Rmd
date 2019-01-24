@@ -67,7 +67,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Question: Do taller players in baseball have an advantage over less tall players?
 
-* 6 months and 5 years: 6 months after graduation, I hope to be hired or just about to be hired in pursuit of my career and 5 years after graduation, I hope to be well experienced in my career/field.
+* 6 months:
+* 5 years: 
 
 * Greatest Career Accomplishment: To be able to help people out and solve real world problems with my knowledge in Statistics/Data Science and Economics.
 
