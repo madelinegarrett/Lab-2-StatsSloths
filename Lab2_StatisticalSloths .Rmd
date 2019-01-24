@@ -49,13 +49,13 @@ knitr::opts_chunk$set(echo = TRUE)
 * Question: In football, when is it most beneficial for a team to try for a touchdown on fourth down rather than attempt a field goal?
 
 * 6 Months: Six months after graduating I would like to be working in the sports industry in some capacity.
-* 5 Years: Five years after graduating I would like to be working for a professional sports team using data science to help with roster building.
+* 5 Years: Five years after graduating I would like to be working for a professional sports team using data science to help with roster building. My ideal sport to work with would be football, but I would enjoy working with basketball as well.
 
 * Career Accomplishment: I hope my greatest career accomplishment will be working with and being a contributing piece on a championship winning sports team.
 
 * In this course I hope to learn at least basic skills and tools in R that will help with data science tasks as I have no prior experience with this.
 
-* Creative: I have always played some form of organized sport since I was three years old, including basketball, football, baseball, and track.
+* Creative: I have always played some form of organized sport since I was three years old, including basketball, football, baseball, and track. I am from Minnesota and am a big fan of the Vikings as well as the other local teams.
 
   + Madeline's Feedback: Your added info about enjoying sports made me wonder which sports teams you like.  
   + Zandy's Feedback: I like your after graduation and career goals to help build rosters for teams using statistics. I would've liked if you explained what sport you specifically might want to work in and specifically what team or teams you might want to work for.
@@ -67,8 +67,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Question: Do taller players in baseball have an advantage over less tall players?
 
-* 6 months:
-* 5 years: 
+* 6 months and 5 years: 6 months after graduation, I hope to be hired or just about to be hired in pursuit of my career and 5 years after graduation, I hope to be well experienced in my career/field.
 
 * Greatest Career Accomplishment: To be able to help people out and solve real world problems with my knowledge in Statistics/Data Science and Economics.
 
